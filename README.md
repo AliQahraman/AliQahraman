@@ -11,19 +11,19 @@ AliQahraman/AliQahraman is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Replace məlumat içərisində nəyisə dəyişmək
-Strip boşluqları silir
-dir bu bir stringin üzərində hansı funksiyaların icra edilə biləcəyini əks etdirir
-[rəqəm] burada yazılan rəqəm indexdir və 0 başlanğıc nöqtəsindir
-
-
-
-
-
-
-
-
-
+# Replace məlumat içərisində nəyisə dəyişmək
+# Strip boşluqları silir
+# dir bu bir stringin üzərində hansı funksiyaların icra edilə biləcəyini əks etdirir
+# [rəqəm] burada yazılan rəqəm indexdir və 0 başlanğıc nöqtəsindir
+# upper böyüdür
+# lower kiçildir
+# len uzunluq
+# type() tipi
+#
+#
+#
+#
+#
 
 
 
